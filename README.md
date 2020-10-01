@@ -2,6 +2,8 @@
 
 This is a small business template built with [Victor Hugo](https://github.com/netlify/victor-hugo) and [Netlify CMS](https://github.com/netlify/netlify-cms), designed and developed by [Darin Dimitroff](http://www.darindimitroff.com/), [spacefarm.digital](https://www.spacefarm.digital).
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c268964a-759f-48a2-916f-06164ca4f7d7/deploy-status)](https://app.netlify.com/sites/gameeye-mock-news/deploys)
+
 ## Getting started
 
 Use our deploy button to get your own copy of the repository. 
