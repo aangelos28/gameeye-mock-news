@@ -3,6 +3,7 @@
 
 GameEye mock news website based on Netlify CMS and a Hugo template.
 
+Access here: https://gameeye-mock-news.netlify.app/
 
 ## Local Development
 
