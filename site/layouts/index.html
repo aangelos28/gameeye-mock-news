@@ -4,7 +4,7 @@
 
 <div class="mw7 center">
   <ul class="mhn1-ns pa3">
-      {{ range (.Paginator 16).Pages.ByPublishDate.Reverse }}
+      {{ range (.Paginator 32).Pages.ByPublishDate.Reverse }}
           <div class="w-100-ns ph1-ns flex">
             {{ .Render "li"}}
           </div>
