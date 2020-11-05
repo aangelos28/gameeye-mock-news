@@ -1,5 +1,5 @@
 ---
-title: "Halo Infinite and Gears of War: Microsoft's plans for the future"
+title: "Halo and Doom: Microsoft's plans for the future"
 date: 2020-10-31T03:15:23.686Z
 description: Phil Spencer has provided some details in a recent interview about
   how Microsoft is approaching exclusives with the next generation of Xbox.
