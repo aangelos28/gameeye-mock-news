@@ -1,5 +1,5 @@
 ---
-title: Top 10 Beginners Need To Know in Assasin's Creed Valhalla
+title: Top 10 Things Beginners Need To Know in Assasin's Creed Valhalla
 date: 2020-11-16T01:52:37.876Z
 description: It sure gets easier if you know these 10 things.
 ---
